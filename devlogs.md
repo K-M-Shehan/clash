@@ -1,4 +1,4 @@
-# Day 1
+# Day 1 7:37 11/24/2026
 
 The purpose of making this game is to also understand some cpp concepts and use them in a real scenario (this game).
 
@@ -16,7 +16,6 @@ The simple solution to this is obviously X-Macros.
 
 An X-Macro is a single master list of data that we feed into different #define X templates so the proprocessor writes our enum and switch statements automatically, keeping them 100% in sync.
 
-
 Now operator overloading.
 
 So this is quite simple, used when we want to change how an operator works with our custom structs.
@@ -27,4 +26,5 @@ Bad:
 - can be confusing if used ambiguously
 - never overload && or ||, its a deadly sin
 
-
+# Day 1 8:07 11/24/2026
+Now virtual inheritance. My brain's tired so later : ).
